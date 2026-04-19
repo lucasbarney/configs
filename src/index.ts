@@ -1,2 +1,2 @@
 // @ts-ignore
-console.log(require("@lucasbarney/prettier-configs"));
+console.log(require('@lucasbarney/prettier-configs'));

@@ -1,3 +1,3 @@
-const configs = require("@lucasbarney/prettier-configs");
+const configs = require('@lucasbarney/prettier-configs');
 
 module.exports = configs;
