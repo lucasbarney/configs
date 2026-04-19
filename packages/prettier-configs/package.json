@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasbarney/configs"
+  },
+  "author": {
+    "name": "Lucas Barney"
+  },
   "scripts": {
     "test": "vitest"
   },
