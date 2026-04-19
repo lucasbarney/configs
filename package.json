@@ -1,0 +1,19 @@
+{
+  "name": "configs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lucasbarney/configs.git",
+  "license": "MIT",
+  "description": "Lucas Barney shareable configs",
+  "scripts": {},
+  "keywords": [
+    "commitlint",
+    "prettier",
+    "prettier-configs"
+  ],
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "prettier": "^3.8.3",
+    "typescript": "^6.0.3"
+  }
+}
