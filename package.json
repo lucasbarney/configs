@@ -13,9 +13,7 @@
     ]
   },
   "scripts": {
-    "prepare": "husky",
-    "test": "echo testing",
-    "commit": "git-cz"
+    "prepare": "husky"
   },
   "keywords": [
     "commitlint",

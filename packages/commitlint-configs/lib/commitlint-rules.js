@@ -15,6 +15,7 @@ module.exports = {
   'footer-leading-blank': [2, 'always'],
   'footer-max-line-length': [2, 'always', 120],
 
+  // Save emogi
   'type-enum': [
     2,
     'always',
