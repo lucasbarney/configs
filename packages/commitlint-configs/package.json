@@ -3,6 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/lucasbarney/configs"
+  },
+  "author": {
+    "name": "Lucas Barney",
+    "url": "https://github.com/lucasbarney/configs"
+  },
+  "scripts": {},
   "dependencies": {
     "@commitlint/config-conventional": "^20.5.0"
   },
