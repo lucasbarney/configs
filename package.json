@@ -15,11 +15,6 @@
   "scripts": {
     "prepare": "husky"
   },
-  "husky": {
-    "hooks": {
-      "prepare-commit-msg": "echo ----------------------2"
-    }
-  },
   "keywords": [
     "commitlint",
     "prettier",
