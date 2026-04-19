@@ -14,7 +14,8 @@
   },
   "scripts": {
     "prepare": "husky",
-    "test": "echo testing"
+    "test": "echo testing",
+    "commit": "git-cz"
   },
   "keywords": [
     "commitlint",
@@ -24,11 +25,18 @@
   "devDependencies": {
     "@commitlint/cli": "^20.5.0",
     "@commitlint/config-conventional": "^20.5.0",
+    "@commitlint/cz-commitlint": "^20.5.1",
     "@lucasbarney/prettier-configs": "*",
     "@types/node": "^25.6.0",
     "commitizen": "^4.3.1",
     "husky": "^9.1.7",
+    "inquirer": "9",
     "prettier": "^3.8.3",
     "typescript": "^6.0.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "@commitlint/cz-commitlint"
+    }
   }
 }
