@@ -1,0 +1,14 @@
+{
+  "name": "@lucasbarney/commitlint-configs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@commitlint/config-conventional": "^20.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.6.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.4"
+  }
+}
